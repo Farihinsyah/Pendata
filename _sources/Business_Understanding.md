@@ -3,6 +3,25 @@ title: Business Understanding
 
 ---
 
+# Pengertian Data Mining
+
+Data mining adalah proses menggali dan menemukan pola atau informasi penting dari kumpulan data dalam jumlah besar. Proses ini bertujuan untuk mengubah data mentah menjadi informasi yang bermanfaat sehingga dapat membantu dalam pengambilan keputusan.
+
+Data mining banyak digunakan untuk menganalisis perilaku pelanggan, memprediksi tren, serta menemukan hubungan tersembunyi dalam data.
+
+---
+
+## Tujuan Data Mining
+
+Tujuan utama data mining adalah memperoleh informasi yang berguna dari data yang tersedia. Secara umum, tujuan data mining meliputi:
+
+- Menemukan pola atau hubungan dalam data  
+- Membantu pengambilan keputusan berbasis data  
+- Memprediksi kejadian di masa mendatang  
+- Mengelompokkan data berdasarkan karakteristik tertentu  
+- Mengidentifikasi peluang dan permasalahan 
+
+
 # Business Understanding
 
 Business Understanding merupakan tahap pertama dalam metode CRISP-DM yang menjadi dasar sebelum melakukan analisis data. Pada fase ini, fokus utama bukan pada pengolahan data, melainkan pada pemahaman kebutuhan bisnis, masalah yang sedang terjadi, serta tujuan yang ingin dicapai oleh organisasi.
