@@ -1,11 +1,21 @@
-# Welcome to your Jupyter Book
+---
+title: Selamat datang di web statis saya
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+---
 
-Check out the content pages bundled with this sample book to see more.
+# Selamat Datang di Web Statis Saya
+
+Nama : Ahmad Syahrul Farihin
+NIM : 240411100031
+Dosen : Mula'ab, S.Si., M.Kom.
+
+Web ini digunakan untuk memenuhi tugas Penambangan Data B
+
+---
+
+Data mining adalah proses menggali dan menemukan pola atau informasi penting dari kumpulan data dalam jumlah besar. Proses ini bertujuan untuk mengubah data mentah menjadi informasi yang bermanfaat sehingga dapat membantu dalam pengambilan keputusan.
+
+Data mining banyak digunakan untuk menganalisis perilaku pelanggan, memprediksi tren, serta menemukan hubungan tersembunyi dalam data.
 
 ```{tableofcontents}
 ```
