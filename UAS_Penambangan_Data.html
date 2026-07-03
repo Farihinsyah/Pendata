@@ -475,8 +475,8 @@
 <td><p>STUDENT1 - STUDENT145</p></td>
 </tr>
 <tr class="row-odd"><td><p>1 s.d. 30</p></td>
-<td><p>Integer (Ordinal)</p></td>
-<td><p>Jawaban kuesioner berskala Likert. <strong>Bukan data binary</strong>, karena rentang nilai bervariasi antar kolom (ada yang 1-2, 1-3, hingga 1-6)</p></td>
+<td><p>Integer (Ordinal & Nominal)</p></td>
+<td><p>Berisi data personal, keluarga, dan kebiasaan belajar mahasiswa. Sebagian bersifat ordinal (berskala bertingkat) dan sebagian nominal (kategorikal tanpa urutan), dengan rentang nilai yang bervariasi antar kolom</p></td>
 <td><p>1-5 (umumnya), beberapa kolom 1-2 s.d. 1-6</p></td>
 </tr>
 <tr class="row-even"><td><p>COURSE ID</p></td>
@@ -485,7 +485,7 @@
 <td><p>1-9 (9 kelas)</p></td>
 </tr>
 <tr class="row-odd"><td><p>GRADE</p></td>
-<td><p>Integer -&gt; String (Nominal)</p></td>
+<td><p>Integer (Ordinal -&gt; diperlakukan Nominal)</p></td>
 <td><p>Atribut target/label yang diprediksi. Dikonversi ke String agar dikenali KNIME sebagai kelas klasifikasi</p></td>
 <td><p>0-7 (8 kelas)</p></td>
 </tr>
